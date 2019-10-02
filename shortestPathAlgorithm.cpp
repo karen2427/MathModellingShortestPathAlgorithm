@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <limits.h>
+#include <bits/stdc++.h>
+using namespace std;
 #define V 21
 
 int minDistance(int dist[],
